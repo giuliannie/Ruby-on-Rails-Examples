@@ -1,0 +1,6 @@
+%h1 Editing product
+
+%p= render 'form'
+
+%p= link_to 'Show', @product
+%p= link_to 'Back', products_path
