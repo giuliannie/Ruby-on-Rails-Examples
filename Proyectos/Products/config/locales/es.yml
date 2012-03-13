@@ -1,0 +1,6 @@
+es:
+  activerecord:
+    errors:
+      messages:
+        taken: ": el campo debe ser único"
+        blank: "no puede quedar en blanco"
